@@ -34,4 +34,4 @@ Tools Spam Sms,Call,Wa Spesial Tahun baru (+62) only
 | **Multi Target** |[✔️](https://github.com/AmmarrBN) |
 ---------
 
-<li><code>Get<a href="https://karyawan.co.id/tjbH5aNo">Token</a></code></li>
+<li><code>Get<a href="https://karyawan.co.id/Ylcdv5zjf">Apikey</a></code></li>
