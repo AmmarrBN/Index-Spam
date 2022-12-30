@@ -1,6 +1,8 @@
 # Index-Spam
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=Author&color=green&message=./AmmarExploit &logo=Acclaim&logoColor=white&style=for-the-badge"><br>
 Tools Spam Sms,Call,Wa Spesial Tahun baru (+62) only
+</p>
 <p align="center">
   <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Minimal+Kasi+Star+lah+kontol+!" alt="UwU">
 </p>
