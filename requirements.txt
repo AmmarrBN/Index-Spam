@@ -18,7 +18,6 @@ itsdangerous==2.1.2
 Jinja2==3.1.2
 MarkupSafe==2.1.1
 phonenumbers==8.13.3
-Pillow==9.3.0
 pycryptodome==3.16.0
 pyfiglet==0.8.post1
 Pygments==2.13.0
