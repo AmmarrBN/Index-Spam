@@ -25,7 +25,7 @@ https://wa.me/6287708773367
   pkg install git
   pkg install python2
   git clone https://github.com/AmmarrBN/Index-Spam
-  cd IndexSpam
+  cd Index-Spam
   pip install -r requirements.txt
   python main.py
   ```
