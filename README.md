@@ -4,7 +4,7 @@
 Tools Spam Sms,Call,Wa Spesial Tahun baru (+62) only,
 Yang recode gw doain tangannya buntung !
 Kalo recode ijin dulu bangke
-https://wa.me/6287708773367
+https://t.me/SariiRooti
 </p>
 <p align="center">
   <a href="https://github.com/AmmarrBN"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Minimal+Kasi+Star+lah+kontol+!" alt="UwU">
