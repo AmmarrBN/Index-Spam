@@ -27,16 +27,6 @@ https://t.me/SariiRooti
   git clone https://github.com/AmmarrBN/Index-Spam
   cd Index-Spam
   pip install -r requirements.txt
-  python main.py
+  bash app.sh
   ```
   </details>
-
-#### KELEBIHAN 📍
-| Kelebihan | Check |
-|--------|--------|
-| **Brutal** |[✔️](https://github.com/AmmarrBN) |
-| **Massive** |[✔️](https://github.com/AmmarrBN) |
-| **Multi Target** |[✔️](https://github.com/AmmarrBN) |
----------
-
-<li><code>Get<a href="https://karyawan.co.id/Ylcdv5zjf">Apikey</a></code></li>
