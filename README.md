@@ -22,7 +22,9 @@ https://t.me/SariiRooti
   ```bash
   pkg update && pkg upgrade
   pkg install python
-  pkg install git
+  apt-get install curl jq git ossp-uuid ncurses-utils lzma nodejs
+  apt-get install nodejs-lts python
+  npm -g i bash-obfuscate
   pkg install python2
   git clone https://github.com/AmmarrBN/Index-Spam
   cd Index-Spam
